@@ -19,9 +19,9 @@ import (
 	"strings"
 	"time"
 
-	"golang.org/x/oauth2"
-	"golang.org/x/oauth2/internal"
-	"golang.org/x/oauth2/jws"
+	"github.com/morya/oauth2"
+	"github.com/morya/oauth2/internal"
+	"github.com/morya/oauth2/jws"
 )
 
 var (
